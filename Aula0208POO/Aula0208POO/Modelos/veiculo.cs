@@ -9,8 +9,7 @@
 
         public int ano { get; set; }
 
-        public string marca { get; set; }
-
+    
 
 
     }

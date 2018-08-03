@@ -2,8 +2,9 @@
 {
     interface imotorizado
     {
-        public void acelerar();
+        int Velocidade { get; set; }
         void acelerar();
         void frenar();
     }
 }
+
